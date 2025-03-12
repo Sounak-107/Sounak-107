@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sounak-107
+- 👋 Hi, I’m Sounak Banerjee
 - 👀 I’m interested in Coding, IOT, Football
 - 🌱 I’m currently learning : Internet Of Things, Deep learning, AI, ML,              Computer networking
 - 📫 How to reach me:
