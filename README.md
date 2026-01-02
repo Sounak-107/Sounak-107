@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sounak Banerjee
-- 👀 I’m interested in Coding, IOT, Football
+- 👀 I’m interested in Coding, IOT, Football, Gaming 
 - 🌱 I’m currently learning : Internet Of Things, Deep learning, AI, ML,              Computer networking
 - 📫 How to reach me:
     1. My linkdin profile : www.linkedin.com/in/sounak-banerjee-a57a37274
